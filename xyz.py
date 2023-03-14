@@ -1,3 +1,2 @@
-for x in range(10):
-    for y in range(10):
-        print(x + y)
+regards = ["r", "e", "g", "a", "r", "d", "s"]
+print(*[x for x in regards])
